@@ -1,0 +1,21 @@
+{
+    "id": "praveen-plugin-deployment-test",
+
+    "version": "1.0.0",
+
+    "meta": {
+        "label": "Plugin Deployment POC",
+
+        "description": "Testing deployment of plugin via GitHub Actions to Dataiku",
+
+        "author": "praveen.bandla@zs.com",
+
+        "icon": "fas fa-puzzle-piece",
+
+        "tags": [],
+
+        "url": "",
+
+        "licenseInfo": "Apache Software License"
+    }
+}

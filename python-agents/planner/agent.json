@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "label": "Planner Agent",
+    "description": "Determines whether to route a query to the Paxlovid, Ibrance, or Simple agent.",
+    "icon": "fas fa-magic"
+  },
+  "supportsImageInputs": false,
+  "params": [
+    {
+      "name": "user_query",
+      "label": "User Query",
+      "type": "TEXTAREA",
+      "description": "Enter a natural language query to route to the correct agent."
+    }
+  ]
+}
