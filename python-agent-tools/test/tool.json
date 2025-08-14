@@ -1,0 +1,8 @@
+{
+  "meta": {
+    "label": "Dummy Tool",
+    "description": "A dummy tool that returns a fixed message.",
+    "icon": "fas fa-cube"
+  },
+  "params": []
+}

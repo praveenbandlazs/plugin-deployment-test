@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "label": "Simple Agent",
+    "description": "All non-queries",
+    "icon": "fas fa-chart-line"
+  },
+  "supportsImageInputs": false,
+  "params": []
+}

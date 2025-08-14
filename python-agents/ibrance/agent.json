@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "label": "Ibrance Agent",
+    "description": "Produces resuls of Ibrance queries",
+    "icon": "fas fa-chart-line"
+  },
+  "supportsImageInputs": false,
+  "params": []
+}

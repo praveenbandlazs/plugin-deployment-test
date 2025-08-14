@@ -1,7 +1,7 @@
 {
   "meta": {
     "label": "Paxlovid Agent",
-    "description": "Handles Paxlovid analytics tasks (uses Paxlovid SQL tool).",
+    "description": "Produces resuls of Paxlovid queries",
     "icon": "fas fa-chart-line"
   },
   "supportsImageInputs": false,
